@@ -1,0 +1,6 @@
+Insights Link -
+
+Insight 1 - https://public.tableau.com/profile/vishal.jangir#!/vizhome/Airports_to_avoid/Story1
+Insight 2 - https://public.tableau.com/profile/vishal.jangir#!/vizhome/Insight3_15908321767690/CancelledFlightsOverTime
+Insight 3 - https://public.tableau.com/profile/vishal.jangir#!/vizhome/Insight-1/Dashboard1
+Insight 4 - https://public.tableau.com/profile/vishal.jangir#!/vizhome/best-month-to-travel-in-flight/Story1
